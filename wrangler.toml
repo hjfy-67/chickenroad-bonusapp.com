@@ -1,0 +1,11 @@
+name = "chickenroad-bonusapp-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chickenroad-bonusapp.com"
+HMAC_KEY = "9c3cb79204ec5431146380ac1f5245ffe61e57b9b67fc0b9b762713d2e857a95"
+COOKIE_NAME = "9xv"
+PLAY_PATH = "discover"
+BUTTON_ID = "p6122303d01bc9c5c095120e014728e15"
+GATE_SALT = "ceee0b222976db04"
